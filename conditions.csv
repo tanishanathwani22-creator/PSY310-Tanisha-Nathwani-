@@ -1,0 +1,5 @@
+trialno,Condition,Stimulus,Target,Correct_resp
+1,C,<<<<<,<,left
+2,C,>>>>>,> ,right
+3,I,>>><>,<,left
+4,I,<<><<,> ,right
